@@ -2,7 +2,7 @@ Package.describe({
     name:          'pbastowski:systemjs',
     version:       '0.0.1',
     summary:       'SystemJS for Meteor 1.2',
-    git:           'https://github.com/pbastowski/typescript.git',
+    git:           'https://github.com/pbastowski/systemjs.git',
     documentation: 'README.md'
 });
 
